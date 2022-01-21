@@ -1,3 +1,4 @@
 When we call a dog a goodboy,
 Listen to me well.
 Add this line only in testing branch.
+What if it has a long commit message.
